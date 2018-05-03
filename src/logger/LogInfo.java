@@ -5,6 +5,10 @@ import java.io.IOException;
 
 import org.apache.log4j.Logger;
 
+/**
+ * @author kunal.ashar
+ */
+
 public class LogInfo
 {
 
