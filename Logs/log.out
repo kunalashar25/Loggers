@@ -1,0 +1,4 @@
+[2018-05-03 16:06:43,917]--INFO--LogInfo--main--13: This is Info
+[2018-05-03 16:06:43,919]--ERROR--LogInfo--main--14: This is Error
+[2018-05-03 16:06:43,919]--WARN--LogInfo--main--15: This is Warning
+[2018-05-03 16:06:43,919]--FATAL--LogInfo--main--17: This is Fatal
